@@ -2,12 +2,13 @@
 
 - Create React App
 - Install Tailwind
+- Header
+- Login Form
 
 #Features
 
 - Login/Sign UP Page
 - Sign In / Sign Up Form
-- ref
 - Browse Page(after authentication)
 - Main Movie
 - Trailer in Background
