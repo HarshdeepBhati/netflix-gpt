@@ -4,6 +4,13 @@
 - Install Tailwind
 - Header
 - Login Form
+- SignUp Form
+- Routing
+- Form Validations
+- useRef Hook
+- Firebase Setup
+- Prod Deployment
+- Create Sign Up
 
 #Features
 
