@@ -11,6 +11,9 @@
 - Firebase Setup
 - Prod Deployment
 - Create Sign Up
+- Firebase Setip
+- Deploying App
+- Create Redux Store with userSlice
 
 #Features
 
